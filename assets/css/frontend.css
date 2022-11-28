@@ -1,0 +1,36 @@
+
+
+.crm_ticket_hidden {
+	display: none;
+}
+
+
+.crm_tickets_table tr:nth-child(even) {
+	background-color: #dddddd;
+}
+
+.crm_tickets_table td, .crm_tickets_table th {  
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 7px;
+}
+
+.crm_tickets_button {
+	transition: background 150ms ease-in-out;
+	background: #0073aa;
+	border: none;
+	border-radius: 5px;
+	box-sizing: border-box;
+	color: #fff;
+	font-size: 0.88889em;
+	font-weight: 700;
+	line-height: 1.2;
+	outline: none;
+	padding: 0.76rem 1rem;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+
+.crm_ticket_container {
+	overflow-x:auto;
+}

@@ -1,0 +1,81 @@
+.crm_tickets_table tr:nth-child(even) {
+background-color: #dddddd;
+}
+
+.crm_tickets_table td, .crm_tickets_table th {  
+border: 1px solid #dddddd;
+text-align: left;
+padding: 7px;
+}
+
+.crm_ticket_gap_30 {
+	padding-top: 30px;
+}
+.crm_ticket_setting {
+	width: 200px;
+}
+
+.crm_ticket_mr_20 {
+	margin-right: 20px;
+}
+
+.crm_ticket_ml_20 {
+	margin-left: 20px;
+}
+
+.crm_ticket_center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.crm_tickets_admin_button {
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.crm_tickets_modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 500px;
+  padding: 10px;
+  z-index: 1010;
+  overflow-y: auto;
+  background: #E3DCFF;
+}
+
+.crm_support_tickets_greyed {
+  color: gray;
+}
+
+.crm_support_tickets_looksLikebtn{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-decoration: none;
+
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}

@@ -1,0 +1,287 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Chimney Rock - Support Tickets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-08 01:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: crm-support-tickets"
+
+#: inc/tickets.php:530
+msgid "\"From\" Email"
+msgstr ""
+
+#: inc/tickets.php:512
+msgid "\"From\" Name"
+msgstr ""
+
+#: inc/tickets.php:1503
+msgid "Add New Support Ticket"
+msgstr ""
+
+#: inc/tickets.php:440
+msgid ""
+"Add the shortcode [crm_support_tickets] to any page where you want to show "
+"your support tickets"
+msgstr ""
+
+#: inc/tickets.php:443
+msgid "Admin Email"
+msgstr ""
+
+#: inc/tickets.php:170
+msgid "Agent Assigned"
+msgstr ""
+
+#: inc/tickets.php:551
+msgid "Agent Roles"
+msgstr ""
+
+#: inc/tickets.php:1506
+msgid "All Support Tickets"
+msgstr ""
+
+#: inc/tickets.php:130
+msgid "Answered"
+msgstr ""
+
+#: inc/tickets.php:181
+msgid "Assign To Customer"
+msgstr ""
+
+#: inc/tickets.php:131
+msgid "Awaiting Agent Response"
+msgstr ""
+
+#: inc/tickets.php:132
+msgid "Awaiting Customer Response"
+msgstr ""
+
+#: inc/tickets.php:1502
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#. Name of the plugin
+msgid "Chimney Rock - Support Tickets"
+msgstr ""
+
+#. Author of the plugin
+msgid "Chimney Rock Software"
+msgstr ""
+
+#: inc/tickets.php:129
+msgid "Closed"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create and manage support tickets for your customers or subscribers with "
+"ease."
+msgstr ""
+
+#: inc/tickets.php:114
+msgid "Critical"
+msgstr ""
+
+#: inc/tickets.php:204
+msgid "Customer Email"
+msgstr ""
+
+#: inc/tickets.php:203
+msgid "Customer Name"
+msgstr ""
+
+#: inc/tickets.php:663
+msgid "Delete All Data On Uninstall"
+msgstr ""
+
+#: inc/tickets.php:1504
+msgid "Edit Support Ticket"
+msgstr ""
+
+#: inc/tickets.php:479
+msgid "Enable Admin Emails"
+msgstr ""
+
+#: inc/tickets.php:496
+msgid "Enable Customer Emails"
+msgstr ""
+
+#: inc/tickets.php:606
+msgid "Enable Google Recaptcha"
+msgstr ""
+
+#: inc/tickets.php:540
+msgid ""
+"Enter the email address that emails should be sent from.  Default: Admin "
+"Email"
+msgstr ""
+
+#: inc/tickets.php:522
+msgid "Enter the name emails should be sent from.  Default: Blog Name"
+msgstr ""
+
+#: inc/tickets.php:649
+msgid "Enter the recaptcha secret key."
+msgstr ""
+
+#: inc/tickets.php:635
+msgid "Enter the recaptcha site key."
+msgstr ""
+
+#: inc/tickets.php:472
+msgid ""
+"Enter the slug of the page where you have placed the shortode.  This will "
+"enable a link to be generated showing the customer where to view their "
+"tickets.  To find the slug, edit the page and expand the Permalink menu item."
+" Example: ticket-page"
+msgstr ""
+
+#: admin/class_modals.php:30
+msgid "Exporting tickets with replies is a Pro Feature. "
+msgstr ""
+
+#: admin/class_filters.php:51
+msgid "Filter Status By "
+msgstr ""
+
+#: inc/tickets.php:640
+msgid "Google Recaptcha Secret Key"
+msgstr ""
+
+#: inc/tickets.php:624
+msgid "Google Recaptcha Site Key"
+msgstr ""
+
+#: inc/tickets.php:113
+msgid "High"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://chimneyrockmgt.com/"
+msgstr ""
+
+#: inc/tickets.php:449
+msgid "License Key"
+msgstr ""
+
+#: inc/tickets.php:112
+msgid "Low"
+msgstr ""
+
+#: inc/tickets.php:1505
+msgid "New Support Ticket"
+msgstr ""
+
+#: inc/tickets.php:1509
+msgid "No Support Tickets found"
+msgstr ""
+
+#: inc/tickets.php:1510
+msgid "No Support Tickets found in the Trash"
+msgstr ""
+
+#: inc/tickets.php:111
+msgid "Normal"
+msgstr ""
+
+#: inc/tickets.php:128
+msgid "Open"
+msgstr ""
+
+#: traits/comment_form.php:38
+msgid "Post A Reply"
+msgstr ""
+
+#: inc/tickets.php:1500
+msgctxt "post type general name"
+msgid "Support Tickets"
+msgstr ""
+
+#: inc/tickets.php:1501
+msgctxt "post type singular name"
+msgid "Support Ticket"
+msgstr ""
+
+#: inc/tickets.php:76
+msgid "Priortiy"
+msgstr ""
+
+#: inc/tickets.php:1508
+msgid "Search Support Tickets"
+msgstr ""
+
+#: inc/tickets.php:423 inc/tickets.php:424
+msgid "Settings"
+msgstr ""
+
+#: inc/tickets.php:83
+msgid "Shortcode"
+msgstr ""
+
+#: inc/tickets.php:462
+msgid "Slug"
+msgstr ""
+
+#: inc/tickets.php:70
+msgid "Status"
+msgstr ""
+
+#: inc/tickets.php:174
+msgid "Subject"
+msgstr ""
+
+#: inc/tickets.php:1511
+msgid "Support Tickets"
+msgstr ""
+
+#: inc/tickets.php:439
+msgid "Support Tickets Settings"
+msgstr ""
+
+#: inc/tickets.php:63
+msgid "Ticket History"
+msgstr ""
+
+#: inc/tickets.php:660
+msgid "Uninstall Settings"
+msgstr ""
+
+#: inc/tickets.php:1507
+msgid "View Support Ticket"
+msgstr ""
+
+#: inc/tickets.php:666
+msgid ""
+"When enabled, ALL DATA including existing tickets will be permanently "
+"deleted when you uninstall the plugin.  Warning - make sure you really want "
+"to do this.  It is best to backup your data before performing this action"
+msgstr ""
+
+#: inc/tickets.php:491
+msgid ""
+"When enabled, an email to admin will be sent for new tickets and new ticket "
+"replies"
+msgstr ""
+
+#: inc/tickets.php:507
+msgid ""
+"When enabled, an email to the customer will be sent for new tickets and new "
+"ticket replies"
+msgstr ""
+
+#: inc/tickets.php:618
+msgid ""
+"When enabled, the Google Recaptcha will be shown if your site and secret key "
+"are saved."
+msgstr ""
